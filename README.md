@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prabhu-sam001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prabhu-sam001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
