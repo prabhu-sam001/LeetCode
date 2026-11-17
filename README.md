@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/prabhu-sam001/LeetCode/tree/master/1840-maximum-building-height) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prabhu-sam001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## String
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prabhu-sam001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prabhu-sam001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
