@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/prabhu-sam001/LeetCode/tree/master/1840-maximum-building-height) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prabhu-sam001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sorting
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prabhu-sam001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
