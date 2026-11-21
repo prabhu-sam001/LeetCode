@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prabhu-sam001/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/prabhu-sam001/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/prabhu-sam001/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prabhu-sam001/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prabhu-sam001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prabhu-sam001/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prabhu-sam001/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prabhu-sam001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prabhu-sam001/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/prabhu-sam001/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prabhu-sam001/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu-sam001/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prabhu-sam001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prabhu-sam001/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/prabhu-sam001/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
