@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/prabhu-sam001/LeetCode/tree/master/1840-maximum-building-height) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu-sam001/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/prabhu-sam001/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/prabhu-sam001/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prabhu-sam001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prabhu-sam001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/prabhu-sam001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/prabhu-sam001/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -74,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/prabhu-sam001/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
