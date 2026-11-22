@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prabhu-sam001/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2685-count-the-number-of-complete-components](https://github.com/prabhu-sam001/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Heap (Priority Queue)
 |  |
@@ -170,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prabhu-sam001/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/prabhu-sam001/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/prabhu-sam001/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/prabhu-sam001/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
