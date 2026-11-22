@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/prabhu-sam001/LeetCode/tree/master/1840-maximum-building-height) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prabhu-sam001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3886-sum-of-sortable-integers](https://github.com/prabhu-sam001/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
