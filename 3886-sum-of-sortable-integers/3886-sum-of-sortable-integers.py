@@ -1,0 +1,44 @@
+class Solution:
+    def sortableIntegers(self, nums: List[int]) -> int:
+        n = len(nums)
+        arr = sorted(nums)
+        ans = 0
+
+        def is_rotation(a, b):
+            k = len(a)
+            pi = [0] * k
+            j = 0
+
+            for i in range(1, k):
+                while j and a[i] != a[j]:
+                    j = pi[j - 1]
+                if a[i] == a[j]:
+                    j += 1
+                pi[i] = j
+
+            j = 0
+            for x in b + b[:-1]:
+                while j and x != a[j]:
+                    j = pi[j - 1]
+                if x == a[j]:
+                    j += 1
+                if j == k:
+                    return True
+
+            return False
+
+        for k in range(1, n + 1):
+            if n % k:
+                continue
+
+            valid = True
+
+            for i in range(0, n, k):
+                if not is_rotation(arr[i:i + k], nums[i:i + k]):
+                    valid = False
+                    break
+
+            if valid:
+                ans += k
+
+        return ans
