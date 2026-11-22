@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prabhu-sam001/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu-sam001/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2747-count-zero-request-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/prabhu-sam001/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prabhu-sam001/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/prabhu-sam001/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prabhu-sam001/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu-sam001/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2747-count-zero-request-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/prabhu-sam001/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Two Pointers
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/prabhu-sam001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/prabhu-sam001/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prabhu-sam001/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2747-count-zero-request-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prabhu-sam001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prabhu-sam001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
 |  |
