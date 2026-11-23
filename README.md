@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prabhu-sam001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prabhu-sam001/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prabhu-sam001/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prabhu-sam001/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3886-sum-of-sortable-integers](https://github.com/prabhu-sam001/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/prabhu-sam001/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prabhu-sam001/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
