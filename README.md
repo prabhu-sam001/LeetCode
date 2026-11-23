@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/prabhu-sam001/LeetCode/tree/master/1840-maximum-building-height) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prabhu-sam001/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prabhu-sam001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3536-maximum-product-of-two-digits](https://github.com/prabhu-sam001/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prabhu-sam001/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prabhu-sam001/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prabhu-sam001/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhu-sam001/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/prabhu-sam001/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3536-maximum-product-of-two-digits](https://github.com/prabhu-sam001/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prabhu-sam001/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/prabhu-sam001/LeetCode/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/prabhu-sam001/LeetCode/tree/master/3886-sum-of-sortable-integers) |
