@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabhu-sam001/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu-sam001/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prabhu-sam001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/prabhu-sam001/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prabhu-sam001/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prabhu-sam001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/prabhu-sam001/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/prabhu-sam001/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prabhu-sam001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhu-sam001/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/prabhu-sam001/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/prabhu-sam001/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/prabhu-sam001/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prabhu-sam001/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2747-count-zero-request-servers](https://github.com/prabhu-sam001/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prabhu-sam001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prabhu-sam001/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/prabhu-sam001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prabhu-sam001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
