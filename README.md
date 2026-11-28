@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/prabhu-sam001/LeetCode/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/prabhu-sam001/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prabhu-sam001/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1510-stone-game-iv](https://github.com/prabhu-sam001/LeetCode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/prabhu-sam001/LeetCode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prabhu-sam001/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prabhu-sam001/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prabhu-sam001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prabhu-sam001/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0877-stone-game](https://github.com/prabhu-sam001/LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/prabhu-sam001/LeetCode/tree/master/1510-stone-game-iv) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prabhu-sam001/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/prabhu-sam001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/prabhu-sam001/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -248,14 +250,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prabhu-sam001/LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/prabhu-sam001/LeetCode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prabhu-sam001/LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/prabhu-sam001/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prabhu-sam001/LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/prabhu-sam001/LeetCode/tree/master/1510-stone-game-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -349,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/prabhu-sam001/LeetCode/tree/master/3360-stone-removal-game) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/prabhu-sam001/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/prabhu-sam001/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
